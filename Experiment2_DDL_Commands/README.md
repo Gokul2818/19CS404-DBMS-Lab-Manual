@@ -252,5 +252,10 @@ select EmployeeID, Name, Department, Salary from Former_employees
 
 <img width="1237" height="359" alt="image" src="https://github.com/user-attachments/assets/3560d43b-228b-417f-9626-008a5ee1d5e8" />
 
+**SEB Grade** 
+
+<img width="1363" height="76" alt="image" src="https://github.com/user-attachments/assets/6be724fc-5e68-437a-a070-2cef9e5594e8" />
+
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+
